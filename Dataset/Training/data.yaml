@@ -8,6 +8,6 @@ names: ['Cell']
 roboflow:
   workspace: new-workspace-ook2l
   project: iscs-detection
-  version: 1
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/new-workspace-ook2l/iscs-detection/dataset/1
+  url: https://universe.roboflow.com/new-workspace-ook2l/iscs-detection/dataset/2
