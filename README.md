@@ -64,3 +64,6 @@ For the Bytetrack algorithm to track each individual cell in a given frame, the 
 </p>
 
 Notably, the study demonstrated that, despite the high accuracy of cell detection, not every detected cell contributes to tracking inconsistencies, validating the robustness of our method in capturing the true trajectories of intestinal stem cells.
+
+# Connect me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/yashborikar/)
